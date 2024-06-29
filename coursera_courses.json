@@ -1,0 +1,27 @@
+[
+  {
+    "course_id": "python",
+    "course_name": "Python for Everybody",
+    "course_description": "Learn Python programming from basics to advanced concepts."
+  },
+  {
+    "course_id": "data_analysis",
+    "course_name": "Data Analysis Tools",
+    "course_description": "Explore tools for data analysis, including Excel, SQL, and more."
+  },
+  {
+    "course_id": "data_science",
+    "course_name": "Data Science Specialization",
+    "course_description": "Gain skills in data science and machine learning with hands-on projects."
+  },
+  {
+    "course_id": "nanotechnology",
+    "course_name": "Nanotechnology and Nanosensors",
+    "course_description": "Understand the science behind nanotechnology and its applications."
+  },
+  {
+    "course_id": "javascript",
+    "course_name": "JavaScript for Web Development",
+    "course_description": "Master JavaScript and build dynamic web applications."
+  }
+]
